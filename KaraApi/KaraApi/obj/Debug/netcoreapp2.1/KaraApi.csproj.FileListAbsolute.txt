@@ -1,0 +1,14 @@
+E:\Dev\KaraGestor\KaraApi\KaraApi\bin\Debug\netcoreapp2.1\KaraApi.deps.json
+E:\Dev\KaraGestor\KaraApi\KaraApi\bin\Debug\netcoreapp2.1\KaraApi.runtimeconfig.json
+E:\Dev\KaraGestor\KaraApi\KaraApi\bin\Debug\netcoreapp2.1\KaraApi.runtimeconfig.dev.json
+E:\Dev\KaraGestor\KaraApi\KaraApi\bin\Debug\netcoreapp2.1\KaraApi.dll
+E:\Dev\KaraGestor\KaraApi\KaraApi\bin\Debug\netcoreapp2.1\KaraApi.pdb
+E:\Dev\KaraGestor\KaraApi\KaraApi\obj\Debug\netcoreapp2.1\KaraApi.csprojAssemblyReference.cache
+E:\Dev\KaraGestor\KaraApi\KaraApi\obj\Debug\netcoreapp2.1\KaraApi.csproj.CoreCompileInputs.cache
+E:\Dev\KaraGestor\KaraApi\KaraApi\obj\Debug\netcoreapp2.1\KaraApi.RazorAssemblyInfo.cache
+E:\Dev\KaraGestor\KaraApi\KaraApi\obj\Debug\netcoreapp2.1\KaraApi.RazorAssemblyInfo.cs
+E:\Dev\KaraGestor\KaraApi\KaraApi\obj\Debug\netcoreapp2.1\KaraApi.AssemblyInfoInputs.cache
+E:\Dev\KaraGestor\KaraApi\KaraApi\obj\Debug\netcoreapp2.1\KaraApi.AssemblyInfo.cs
+E:\Dev\KaraGestor\KaraApi\KaraApi\obj\Debug\netcoreapp2.1\KaraApi.RazorTargetAssemblyInfo.cache
+E:\Dev\KaraGestor\KaraApi\KaraApi\obj\Debug\netcoreapp2.1\KaraApi.dll
+E:\Dev\KaraGestor\KaraApi\KaraApi\obj\Debug\netcoreapp2.1\KaraApi.pdb
